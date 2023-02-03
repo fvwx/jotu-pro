@@ -1,2 +1,5 @@
-# jotu-pro
-Johdatus Ohjelmistotuotantoon 2023
+# Johdatus ohjelmistotuotantoon (Kevät 2023) ryhmätyö
+
+
+
+
