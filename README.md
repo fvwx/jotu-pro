@@ -1,4 +1,4 @@
-# Johdatus ohjelmistotuotantoon (Kevät 2023) ryhmätyö
+# Johdatus ohjelmistotuotantoon (K2023) ryhmätyö
 
 
 
